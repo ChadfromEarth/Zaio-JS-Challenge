@@ -1,0 +1,41 @@
+
+body {
+        background: #fff;
+    
+}
+
+
+#bx1 {
+  /*  display: inline-block;
+    width: 30%;
+    border: solid 1px black;
+    margin-top: 0px;*/
+    height: 500px;
+     background: #fff;
+     margin-top: 5%;
+}
+#bx2{
+  /*  display: inline-block;
+    width: 30%;
+    
+    margin-top: 0px;*/
+    height: 500px;
+    background: #fff;
+    margin-top: 5%;
+    border: black 1px solid;
+
+}
+
+h3 {
+      
+    text-align: center;
+    width: 90%;
+    /*display: inline; */
+    padding: 10px;
+   
+     border: solid 1px black;
+
+}
+
+
+}
